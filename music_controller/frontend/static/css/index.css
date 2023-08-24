@@ -1,0 +1,35 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: -100;
+
+}
+
+#main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 99;
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    z-index: 100;
+}
+
+
+.gradient-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(90deg, #FF3381, #33A7FF, #3364FF, #9a5bcb, #7100c7);
+  z-index: -1;
+}
+
