@@ -1,6 +1,6 @@
 # Django-React Spotify Music Controller
 
-![Project Preview](screenshot.png)
+Credit: TechWithTim
 
 This is a web application that allows users to control their Spotify playback remotely. It's built using Django on the backend and React on the frontend.
 
@@ -16,12 +16,12 @@ This is a web application that allows users to control their Spotify playback re
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/django-react-spotify-controller.git
+git clone https://github.com/BodiaPutiak/Spotify-music-controller.git
 
 
 2. Navigate to the project directory:
 
-cd django-react-spotify-controller
+cd music-controller
 
 
 3. Install backend dependencies:
@@ -79,7 +79,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your fork.
 5. Submit a pull request detailing your changes.
 
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
