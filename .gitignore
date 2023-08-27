@@ -1,0 +1,8 @@
+*.sqlite3
+venv/
+.env
+frontend/pachage-lock.json
+frontend/node_modules/
+api/__pycache__/
+frontend/__pycache__/
+music_controller/__pycache__/

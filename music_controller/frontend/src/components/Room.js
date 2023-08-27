@@ -21,7 +21,7 @@ export function Room() {
 
 useEffect(() => {
   const interval = setInterval(getCurrentSong, 1000);
-  return () => clearInterval(interval); // Cleanup when component unmounts
+  return () => clearInterval(interval); 
 }, [state]);
 
 useEffect(() => {
